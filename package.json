@@ -1,0 +1,15 @@
+{
+  "name": "environment-git",
+  "version": "1.0.0",
+  "description": "1103д",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nastya",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
